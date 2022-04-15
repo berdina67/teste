@@ -1,1 +1,5 @@
-Arquivo2.txt criado
+Tabela 1
+nome: Fulvio
+nome: Fatima
+moram em Juliada costa 650
+São de Paranaguá
