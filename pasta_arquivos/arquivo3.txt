@@ -1,0 +1,7 @@
+Informacoes no arquivo3.txt
+git status
+git add .
+git commit -m "info about"
+git show <hash>
+git log
+git diff
