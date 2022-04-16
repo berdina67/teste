@@ -1,7 +1,10 @@
 Informacoes no arquivo3.txt
+comandos git shell
 git status
 git add .
 git commit -m "info about"
 git show <hash>
 git log
 git diff
+ssh-keygen -t rsa -b 4096 -C "seu-email@ip-servidor"
+
